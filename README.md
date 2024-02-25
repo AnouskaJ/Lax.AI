@@ -1,4 +1,4 @@
-# Project Name: Lax.AI: Multilingual Budget Travel Chatbot
+Lax.AI: Multilingual Budget Travel Chatbot
 
 ## Overview
 🤖 This project aims to develop a multilingual chatbot supporting 22 Indic languages. The chatbot will provide users with details of routes and costs between pick-up and drop locations, enabling students to travel within their budget, a common problem faced by many students. The chatbot will be built using the Embedchain RAG Framework and Mistral LLM Model.
